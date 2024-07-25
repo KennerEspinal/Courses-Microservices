@@ -1,4 +1,4 @@
-# Gestión de Productos y Categorias en SpringBoot
+# Gestión de Cursos y Estudiantes en SpringBoot
 
 <p align="center">
 <a href="https://angular.dev"><img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" width="150" alt="SpringBoot Logo" /></a>
